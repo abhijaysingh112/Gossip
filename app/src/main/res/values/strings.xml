@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gossip</string>
+    <string name="MobileNumber">Enter Your Mobile Number</string>
+    <string name="CountryCode">+91</string>
+    <string name="OR">OR</string>
+    <string name="VerifyNumber">Verify +8990384938</string>
+    <string name="OTPNumber">Enter the OTP sent on your Mobile Number</string>
+    <string name="Continue">Continue</string>
+    <string name="WelcomeLogo">Welcome Buddy!!!!</string>
+    <string name="calls">Calls</string>
+    <string name="string_calls" />
+    <string name="status">Status</string>
+    <string name="chats">Chats</string>
+    <string name="textview">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

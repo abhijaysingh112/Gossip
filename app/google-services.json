@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919592736904",
+    "project_id": "gossip-3a923",
+    "storage_bucket": "gossip-3a923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919592736904:android:fd3277dff8f4f72b79273d",
+        "android_client_info": {
+          "package_name": "com.example.gossip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919592736904-r8a3oals1hfh7gsmdbdmqkmdj3utegfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKkUVDqcgguXk78WuwtXRKFkpRhEJHpDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919592736904-r8a3oals1hfh7gsmdbdmqkmdj3utegfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Gossip/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.204" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/country_code_color.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/curve_bg_app.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/green_bg.xml" value="0.1225" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/ic_images.xml" value="0.204" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/ic_launcher_background.xml" value="0.204" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/join_create.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/login_bg.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/msg_receive.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/msg_sent.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/phone_button.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/share.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/drawable/sharee.xml" value="0.165" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_about_us.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_about_uss.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_chat2.xml" value="0.203125" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_gossip.xml" value="0.22" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_otp.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_phone.xml" value="0.22" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_rowchat.xml" value="0.22" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/activity_video.xml" value="0.22" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/fragment_chat.xml" value="0.25" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/fragment_status.xml" value="0.22" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/fragment_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/item_status.xml" value="0.25" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/message_received.xml" value="0.5" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/message_sent.xml" value="0.5" />
+        <entry key="..\:/Gossip/app/src/main/res/layout/status.xml" value="0.22" />
+        <entry key="..\:/Gossip/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/menu/menu1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Gossip/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Gossip/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

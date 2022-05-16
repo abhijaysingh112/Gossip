@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/chat"
+        android:title="Chats" />
+    <item
+        android:id="@+id/status"
+        android:icon="@drawable/status"
+        android:title="Status" />
+    <item
+        android:id="@+id/videoconferencing"
+        android:icon="@drawable/video_camera"
+        android:title="Video Conferencing" />
+</menu>
